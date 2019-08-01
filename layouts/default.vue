@@ -116,6 +116,7 @@ export default {
 
   mounted () {
     console.log(process.env.API_URL, ' ok')
+    console.log(process.env.NUXT_ENV_API_URL, ' ok2')
   }
 }
 </script>
