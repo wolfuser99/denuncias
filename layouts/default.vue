@@ -112,6 +112,10 @@ export default {
       rightDrawer: false,
       title: 'Vuetify.js'
     }
+  },
+
+  mounted () {
+    console.log(process.env.API_URL, ' ok')
   }
 }
 </script>

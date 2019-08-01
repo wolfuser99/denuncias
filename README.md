@@ -1,4 +1,5 @@
 # denuncias
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a1bbf18-a2c6-48cf-be1a-0b9cc48987f6/deploy-status)](https://app.netlify.com/sites/eager-allen-c07066/deploys)
 
 > My solid Nuxt.js project
 
